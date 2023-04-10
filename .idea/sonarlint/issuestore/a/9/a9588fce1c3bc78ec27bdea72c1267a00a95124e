@@ -1,16 +1,0 @@
-
-2
-java:S16430"Use a StringBuilder instead.(˜“†¥
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹
-=
-java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ıØ±üÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‘Æı
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ıØ±üÿÿÿÿ
-U	java:S106"9Replace this use of System.out or System.err by a logger.(­é×ì8õ‡ğÏö0
-U	java:S106("9Replace this use of System.out or System.err by a logger.(Á×íĞ8¢óÏö0
-Z	java:S106\"9Replace this use of System.out or System.err by a logger.(‚°ƒøÿÿÿÿ8™İüÏö0
-T	java:S106]"9Replace this use of System.out or System.err by a logger.(•¾«18°¼şÏö0
-Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ºŒ³¶øÿÿÿÿ8¿ÉĞö0
-E
-java:S2093W"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
