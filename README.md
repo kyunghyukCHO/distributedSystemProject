@@ -8,3 +8,9 @@
     * IntelliJ IDEA
     * JAVA
     * 라이브러리 및 프레임워크
+
+2. 프로젝트 구성 (초안) 
+* ONE Server and SEVERAL Clients can connect concurrently
+* Server and Client connect using SOCKET 
+   * Server have THREAD POOL having 10 THREADS
+   * if one client try to connect server, server assign one thread from pool 
