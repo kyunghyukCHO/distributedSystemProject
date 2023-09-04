@@ -14,3 +14,8 @@
 * Server and Client connect using SOCKET 
    * Server have THREAD POOL having 10 THREADS
    * if one client try to connect server, server assign one thread from pool 
+
+
+3. 시연 링크
+
+https://www.youtube.com/watch?v=TCd0uwM9TJA&t=227s
